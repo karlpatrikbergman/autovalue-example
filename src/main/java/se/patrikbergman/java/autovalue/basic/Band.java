@@ -1,4 +1,4 @@
-package se.patrikbergman.java.autovalue;
+package se.patrikbergman.java.autovalue.basic;
 
 import com.google.auto.value.AutoValue;
 
